@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "demo", "demo\demo.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Smallest of Three Numbers", "01. Smallest of Three Numbers\01. Smallest of Three Numbers.csproj", "{15B450D4-FFF3-4EB4-AD75-03D8ECF726DD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Vowels Count", "02. Vowels Count\02. Vowels Count.csproj", "{01BE0BD6-15E3-43D0-BA05-77556F472174}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{15B450D4-FFF3-4EB4-AD75-03D8ECF726DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{15B450D4-FFF3-4EB4-AD75-03D8ECF726DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{15B450D4-FFF3-4EB4-AD75-03D8ECF726DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01BE0BD6-15E3-43D0-BA05-77556F472174}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01BE0BD6-15E3-43D0-BA05-77556F472174}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01BE0BD6-15E3-43D0-BA05-77556F472174}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01BE0BD6-15E3-43D0-BA05-77556F472174}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
