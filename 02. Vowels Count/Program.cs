@@ -23,10 +23,8 @@ namespace _02._Vowels_Count
                 {
                     total++;
                 }
-            }
-            
+            }            
             return total.ToString();
-
         }
 
     }
