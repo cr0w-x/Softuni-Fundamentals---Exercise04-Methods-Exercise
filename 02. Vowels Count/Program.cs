@@ -26,6 +26,5 @@ namespace _02._Vowels_Count
             }            
             return total.ToString();
         }
-
     }
 }
