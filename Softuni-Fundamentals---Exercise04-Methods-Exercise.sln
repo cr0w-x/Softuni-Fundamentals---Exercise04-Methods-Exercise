@@ -3,15 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "demo", "demo\demo.csproj", "{D78E577A-04D3-43E1-97FC-F7D9C87E6A98}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "demo", "demo\demo.csproj", "{D78E577A-04D3-43E1-97FC-F7D9C87E6A98}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Smallest of Three Numbers", "01. Smallest of Three Numbers\01. Smallest of Three Numbers.csproj", "{15B450D4-FFF3-4EB4-AD75-03D8ECF726DD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Smallest of Three Numbers", "01. Smallest of Three Numbers\01. Smallest of Three Numbers.csproj", "{15B450D4-FFF3-4EB4-AD75-03D8ECF726DD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Vowels Count", "02. Vowels Count\02. Vowels Count.csproj", "{01BE0BD6-15E3-43D0-BA05-77556F472174}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Vowels Count", "02. Vowels Count\02. Vowels Count.csproj", "{01BE0BD6-15E3-43D0-BA05-77556F472174}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Characters in Range", "03. Characters in Range\03. Characters in Range.csproj", "{AC27D003-00FE-4BFF-A946-41CB694BAB47}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Characters in Range", "03. Characters in Range\03. Characters in Range.csproj", "{AC27D003-00FE-4BFF-A946-41CB694BAB47}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Password Validator", "04. Password Validator\04. Password Validator.csproj", "{5F4F8EE1-E784-40B8-A092-0E1D729AA5FC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. Password Validator", "04. Password Validator\04. Password Validator.csproj", "{5F4F8EE1-E784-40B8-A092-0E1D729AA5FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Add and Subtract", "05. Add and Subtract\05. Add and Subtract.csproj", "{E3B76684-8E15-4DE9-9D8C-1C238B52E8EE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{5F4F8EE1-E784-40B8-A092-0E1D729AA5FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5F4F8EE1-E784-40B8-A092-0E1D729AA5FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5F4F8EE1-E784-40B8-A092-0E1D729AA5FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3B76684-8E15-4DE9-9D8C-1C238B52E8EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3B76684-8E15-4DE9-9D8C-1C238B52E8EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3B76684-8E15-4DE9-9D8C-1C238B52E8EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3B76684-8E15-4DE9-9D8C-1C238B52E8EE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
